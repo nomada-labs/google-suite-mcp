@@ -14,7 +14,7 @@ This guide is written to be followed by a human OR by an AI assistant helping a 
 Run these commands in your terminal, one at a time:
 
 ```bash
-git clone https://github.com/abcreativ/google-suite-mcp.git
+git clone https://github.com/nomada-labs/google-suite-mcp.git
 cd google-suite-mcp
 npm install
 npm run build
@@ -159,4 +159,4 @@ The path in your Claude Desktop config is wrong. Run `pwd` in the project direct
 You did not fully quit Claude Desktop before reopening. On macOS, click **Claude** in the top menu bar and choose **Quit Claude**, not just close the window. On Windows, right-click the tray icon and choose Quit.
 
 **Anything else**
-Open a GitHub issue at https://github.com/abcreativ/google-suite-mcp/issues with the error message and the step you were on.
+Open a GitHub issue at https://github.com/nomada-labs/google-suite-mcp/issues with the error message and the step you were on.

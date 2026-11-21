@@ -9,18 +9,20 @@
   },
   "files": [
     "dist",
+    "!dist/test",
     "README.md",
     "SETUP.md",
     "LICENSE"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abcreativ/google-suite-mcp.git"
+    "url": "git+https://github.com/nomada-labs/google-suite-mcp.git"
   },
   "bugs": {
-    "url": "https://github.com/abcreativ/google-suite-mcp/issues"
+    "url": "https://github.com/nomada-labs/google-suite-mcp/issues"
   },
-  "homepage": "https://github.com/abcreativ/google-suite-mcp#readme",
+  "homepage": "https://github.com/nomada-labs/google-suite-mcp#readme",
+  "author": "Nomada Software LLC",
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js",
